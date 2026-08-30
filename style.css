@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    min-height: 100lvh;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
