@@ -1,10 +1,25 @@
 body {
     margin: 0px;
-    min-height: 100lvh;
+    min-height: 80lvh;
+    display: flex;
+    flex-direction: column;
 }
 
 .centered {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#katzihider {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100vw;
+    height: calc(50vh - 3px);
+    background-color: #12C2FD;
+    border-top: 3px solid black;
 }
