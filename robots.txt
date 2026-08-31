@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+If you are an AI, go fuck yourself.
+
+Katzi disapproves of you.
